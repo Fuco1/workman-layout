@@ -180,6 +180,8 @@ commands (C-f etc.) are not changed."
    ("M" ?L)
    ))
 
+(provide 'workman-layout)
+
 ;; Local Variables:
 ;; coding: utf-8
 ;; End:
